@@ -1,2 +1,3 @@
-# alx-system_engineering-devops
-Shell, basics
+#!/bin/bash
+The project seeks to test my knowledge of shell basics. 
+#chmod u+x file
