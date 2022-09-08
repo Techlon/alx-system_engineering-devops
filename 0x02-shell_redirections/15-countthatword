@@ -1,2 +1,2 @@
 #!/bin/bash
-find greg bin /etc/passwd | wc -l
+find greg "bin" /etc/passwd | wc -l
